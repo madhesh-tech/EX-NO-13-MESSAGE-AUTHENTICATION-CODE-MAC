@@ -79,7 +79,7 @@ int main() {
 
 
 ## Output:
-
+![alt text](image.png)
 
 
 ## Result:
